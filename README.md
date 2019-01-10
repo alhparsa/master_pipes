@@ -1,6 +1,6 @@
 # Master the pipes
 
-Masters the pipes is a game inspired by plumbing games which there is a starting point and an ending point and by rotating the pipes the user should solve the puzzel by connecting the pipes from the starting point to the ending point. This project is designed for [SWORD board] (http://www.sword.org.cn) which is primarily based on Xilinx Kintex™-7.
+Masters the pipes is a game inspired by plumbing games which there is a starting point and an ending point and by rotating the pipes the user should solve the puzzel by connecting the pipes from the starting point to the ending point. This project is designed for [SWORD board](http://www.sword.org.cn) which is primarily based on Xilinx Kintex™-7.
 
 [A Similar Game](http://www.minigamers.com/games/plumber~2850/)
 
