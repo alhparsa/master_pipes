@@ -14,7 +14,8 @@ convert.py --image_location --text_location --number_of_red_bits --number_of_blu
 
 For example:
 
-```convert.py --assets --assets --3 --3 --3 --12
+```
+convert.py --assets --assets --3 --3 --3 --12
 ```
 The python script gets an input picture/directory of images and outputs their corresponding pixel values according to the specficiations in the desired folder.
 
