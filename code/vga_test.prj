@@ -1,0 +1,5 @@
+verilog work "PS2_Sync.v"
+verilog work "vga_sync.v"
+verilog work "pipesmod_org.v"
+verilog work "Keyboard_Access.v"
+verilog work "vga_test.v"

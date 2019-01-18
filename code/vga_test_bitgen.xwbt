@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=G:\Master_PIPES\vga_test.ncd
+OUTFILE=G:\Master_PIPES\vga_test.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=G:\Master_PIPES
+LICENSE=WebPack
+USER_INFO=211631366_0_0_251
