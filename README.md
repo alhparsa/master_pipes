@@ -26,4 +26,4 @@ In the resources directory you can find more resources about how to display imag
 
 # Resources
 
-Resources folder should include a pdf that explains how to work with displays using Verilog, another document explaining how to use inputs from an external keyboard and memory allocation using 
+Resources folder should include a pdf that explains how to work with displays using Verilog and another document explaining how to get inputs from an external keyboard.
