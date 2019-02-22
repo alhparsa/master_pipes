@@ -9,7 +9,7 @@ Masters the pipes is a game inspired by plumbing games which there is a starting
 All the graphics of the game are available in the assests folder, in there you can find a python script where you can run it by executing the following commands:
 
 ```
-convert.py image_location text_location number_of_red_bits number_of_blue_bits number_of_green_bits-size_of_out
+convert.py image_location text_location number_of_red_bits number_of_blue_bits number_of_green_bits size_of_out
 ```
 
 For example:
