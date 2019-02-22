@@ -27,3 +27,8 @@ In the resources directory you can find more resources about how to display imag
 # Resources
 
 Resources folder should include a pdf that explains how to work with displays using Verilog and another document explaining how to get inputs from an external keyboard.
+
+# Sample picture of the game
+
+![alt text](https://github.com/alhparsa/master_pipes/blob/master/assets/IMG_1364.JPG)
+
