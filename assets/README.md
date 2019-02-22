@@ -1,6 +1,6 @@
 # VGA guide
 
-For setting up the VGA check out [sp3 vga.pdf] (https://github.com/alhparsa/master_pipes/blob/master/assets/sp3%20vga.pdf) and [FPGA VGA Graphics in Verilog](https://timetoexplore.net/blog/arty-fpga-vga-verilog-01).
+For setting up the VGA check out [sp3 vga.pdf](https://github.com/alhparsa/master_pipes/blob/master/assets/sp3%20vga.pdf) and [FPGA VGA Graphics in Verilog](https://timetoexplore.net/blog/arty-fpga-vga-verilog-01).
 
 # PS2 Keyboard guide
 
